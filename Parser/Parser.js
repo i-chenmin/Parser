@@ -15,7 +15,6 @@ var trustAttrs = {
   href: true,
   id: true,
   ignore: true,
-  language: true,
   loop: true,
   name: true,
   poster: true,

@@ -63,7 +63,7 @@
   | u |  |
   | center |  |
   | font | face, color |
-  | pre | language |
+  | pre |  |
   | section |  |
   | style |  |
   | body |  |

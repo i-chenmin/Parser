@@ -129,8 +129,7 @@ Page({
       name: 'p',
       attrs: 'align'
     }, {
-      name: 'pre',
-      attrs: 'language'
+      name: 'pre'
     }, {
       name: 'q'
     }, {
